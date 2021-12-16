@@ -16,9 +16,5 @@
   "bugs": {
     "url": "https://github.com/ebulliner/notetaker/issues"
   },
-  "homepage": "https://github.com/ebulliner/notetaker#readme",
-  "dependencies": {
-    "inquirer": "^8.2.0",
-    "jest": "^27.4.5"
-  }
+  "homepage": "https://github.com/ebulliner/notetaker#readme"
 }
