@@ -2,7 +2,7 @@
   "name": "notetaker",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ebulliner/notetaker/issues"
   },
-  "homepage": "https://github.com/ebulliner/notetaker#readme"
+  "homepage": "https://github.com/ebulliner/notetaker#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
